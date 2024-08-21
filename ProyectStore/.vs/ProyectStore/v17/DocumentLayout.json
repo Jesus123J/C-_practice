@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.data\\repositorio\\proveedorimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|solutionrelative:proyectostore.data\\repositorio\\proveedorimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.data\\repositorio\\improveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|solutionrelative:proyectostore.data\\repositorio\\improveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.data\\mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|solutionrelative:proyectostore.data\\mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8542A2D3-36A2-4630-969F-3A2FBB53195F}|ProyectoStore.model\\ProyectoStore.model.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8542A2D3-36A2-4630-969F-3A2FBB53195F}|ProyectoStore.model\\ProyectoStore.model.csproj|solutionrelative:proyectostore.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\proyectstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\proyectstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\proyectstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\proyectstore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8542A2D3-36A2-4630-969F-3A2FBB53195F}|ProyectoStore.model\\ProyectoStore.model.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.model\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8542A2D3-36A2-4630-969F-3A2FBB53195F}|ProyectoStore.model\\ProyectoStore.model.csproj|solutionrelative:proyectostore.model\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectstore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70280DC1-384B-469E-8EEA-AE9335162DC3}|ProyectStore\\ProyectStore.csproj|solutionrelative:proyectstore\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|c:\\users\\jesus gutierrez\\desktop\\proyectstore\\proyectostore.data\\proyectostore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F691E8AB-DDE9-4BA0-BDC9-81FA802606F4}|ProyectoStore.data\\ProyectoStore.data.csproj|solutionrelative:proyectostore.data\\proyectostore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProyectStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProyectStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T00:44:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:59:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\appsettings.json",
+              "RelativeToolTip": "ProyectStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T19:21:46.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\Repositorio\\ImProveedor.cs",
+              "RelativeDocumentMoniker": "ProyectoStore.data\\Repositorio\\ImProveedor.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\Repositorio\\ImProveedor.cs",
+              "RelativeToolTip": "ProyectoStore.data\\Repositorio\\ImProveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:19:05.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\Repositorio\\ProveedorImpl.cs",
+              "RelativeDocumentMoniker": "ProyectoStore.data\\Repositorio\\ProveedorImpl.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\Repositorio\\ProveedorImpl.cs",
+              "RelativeToolTip": "ProyectoStore.data\\Repositorio\\ProveedorImpl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:50:44.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Program.cs",
+              "RelativeToolTip": "ProyectStore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:24:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MysqlConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\MysqlConfiguration.cs",
+              "RelativeDocumentMoniker": "ProyectoStore.data\\MysqlConfiguration.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\MysqlConfiguration.cs",
+              "RelativeToolTip": "ProyectoStore.data\\MysqlConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:25:51.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProyectStore",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+              "RelativeDocumentMoniker": "ProyectStore\\ProyectStore.csproj",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+              "RelativeToolTip": "ProyectStore\\ProyectStore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T21:13:39.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoStore.model\\Producto.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\Producto.cs",
+              "RelativeToolTip": "ProyectoStore.model\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:09:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\Proveedor.cs",
+              "RelativeDocumentMoniker": "ProyectoStore.model\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\Proveedor.cs",
+              "RelativeToolTip": "ProyectoStore.model\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:13:21.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProyectStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+              "RelativeDocumentMoniker": "ProyectStore\\ProyectStore.csproj",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+              "RelativeToolTip": "ProyectStore\\ProyectStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T21:20:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProyectoStore.data.csproj",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj",
+              "RelativeDocumentMoniker": "ProyectoStore.data\\ProyectoStore.data.csproj",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj",
+              "RelativeToolTip": "ProyectoStore.data\\ProyectoStore.data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T18:15:20.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProyectStore\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProyectStore\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:53:16.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

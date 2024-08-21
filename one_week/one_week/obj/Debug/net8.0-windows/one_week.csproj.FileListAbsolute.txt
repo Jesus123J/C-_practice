@@ -3,8 +3,6 @@ C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_w
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\bin\Debug\net8.0-windows\one_week.runtimeconfig.json
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\bin\Debug\net8.0-windows\one_week.dll
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\bin\Debug\net8.0-windows\one_week.pdb
-C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\obj\Debug\net8.0-windows\one_week.Form1.resources
-C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\obj\Debug\net8.0-windows\one_week.csproj.GenerateResource.cache
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\obj\Debug\net8.0-windows\one_week.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\obj\Debug\net8.0-windows\one_week.AssemblyInfoInputs.cache
 C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\one_week\one_week\obj\Debug\net8.0-windows\one_week.AssemblyInfo.cs
