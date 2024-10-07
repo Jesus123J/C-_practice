@@ -1,7 +1,0 @@
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\bin\Debug\DataPrimitive.exe.config
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\bin\Debug\DataPrimitive.exe
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\bin\Debug\DataPrimitive.pdb
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\obj\Debug\DataPrimitive.csproj.AssemblyReference.cache
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\obj\Debug\DataPrimitive.csproj.CoreCompileInputs.cache
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\obj\Debug\DataPrimitive.exe
-C:\Users\Jesus Gutierrez\Documents\C#Workspace\Solution1_component\DataPrimitive\obj\Debug\DataPrimitive.pdb
