@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\ProyectoStore.model.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectoStore.model\\ProyectoStore.model.csproj",
       "projectName": "ProyectoStore.model",
-      "projectPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\ProyectoStore.model.csproj",
+      "projectPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectoStore.model\\ProyectoStore.model.csproj",
       "packagesPath": "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.model\\obj\\",
+      "outputPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectoStore.model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

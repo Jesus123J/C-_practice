@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hwiMVx+YzU=",
+  "dgSpecHash": "UcMha6PGk/4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+  "projectFilePath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

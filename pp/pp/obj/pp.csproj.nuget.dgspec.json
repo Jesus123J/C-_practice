@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesus Gutierrez\\Desktop\\pp\\pp\\pp.csproj": {}
+    "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\pp\\pp\\pp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesus Gutierrez\\Desktop\\pp\\pp\\pp.csproj": {
+    "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\pp\\pp\\pp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Desktop\\pp\\pp\\pp.csproj",
+        "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\pp\\pp\\pp.csproj",
         "projectName": "pp",
-        "projectPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\pp\\pp\\pp.csproj",
+        "projectPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\pp\\pp\\pp.csproj",
         "packagesPath": "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\pp\\pp\\obj\\",
+        "outputPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\pp\\pp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

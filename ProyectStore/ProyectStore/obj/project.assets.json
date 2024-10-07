@@ -4020,11 +4020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
       "projectName": "ProyectStore",
-      "projectPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
+      "projectPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectStore\\ProyectStore.csproj",
       "packagesPath": "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectStore\\obj\\",
+      "outputPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4046,8 +4046,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj": {
-              "projectPath": "C:\\Users\\Jesus Gutierrez\\Desktop\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj"
+            "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj": {
+              "projectPath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\ProyectStore\\ProyectoStore.data\\ProyectoStore.data.csproj"
             }
           }
         }

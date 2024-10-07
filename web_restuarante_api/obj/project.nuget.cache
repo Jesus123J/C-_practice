@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Cv/BzepBbKTwPr7kG5MFwJ4Pn+AymOWn91Tujw2zpRL3XSCSoGvJWGUvX9/wUxG0FJi6qRs/Y/axHFtfkYFQw==",
+  "dgSpecHash": "uPtYtwvVNZs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus Gutierrez\\Desktop\\Nueva carpeta (3)\\web_restuarante_api\\web_restuarante_api.csproj",
+  "projectFilePath": "C:\\Users\\Jesus Gutierrez\\Documents\\WorkSpace\\CSharp_test_practice\\web_restuarante_api\\web_restuarante_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
     "C:\\Users\\Jesus Gutierrez\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.21.0\\microsoft.applicationinsights.aspnetcore.2.21.0.nupkg.sha512",

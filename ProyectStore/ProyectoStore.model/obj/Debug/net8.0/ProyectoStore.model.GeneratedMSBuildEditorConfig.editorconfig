@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoStore.model
-build_property.ProjectDir = C:\Users\Jesus Gutierrez\Desktop\ProyectStore\ProyectoStore.model\
+build_property.ProjectDir = C:\Users\Jesus Gutierrez\Documents\WorkSpace\CSharp_test_practice\ProyectStore\ProyectoStore.model\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
